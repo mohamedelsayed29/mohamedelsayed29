@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
 <h3 align="center">I am a Backend developer</h3>
 
+- 🌱 I’m currently learning **REST Framework , py**
+
+- 📫 How to reach me **mohammed.elsayed.ahmmed@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/DELL/Downloads/Mohamed%20Elsayed%20(Back-End)%20.net%20developer.pdf%20(2).pdf.pdf](file:///C:/Users/DELL/Downloads/Mohamed%20Elsayed%20(Back-End)%20.net%20developer.pdf%20(2).pdf.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-elsayed-79a493262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamed-elsayed-79a493262" height="30" width="40" /></a>
