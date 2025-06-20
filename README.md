@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
 <h3 align="center">I am a Backend developer</h3>
 
-- 🌱 I’m currently learning **REST Framework , py**
+- 👯 I’m looking to collaborate on **Python projects.**
+
+- All of my projects are available at [https://github.com/mohamedelsayed29?tab=repositories](https://github.com/mohamedelsayed29?tab=repositories)
+
+- 💬 Ask me about **Python , Django , REST Framework**
 
 - 📫 How to reach me **mohammed.elsayed.ahmmed@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/DELL/Downloads/Mohamed%20Elsayed%20(Back-End)%20.net%20developer.pdf%20(2).pdf.pdf](file:///C:/Users/DELL/Downloads/Mohamed%20Elsayed%20(Back-End)%20.net%20developer.pdf%20(2).pdf.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GqDIKTl0Uvpb_vWW5i4JnaSnMsBcxXn8/view?usp=sharing](https://drive.google.com/file/d/1GqDIKTl0Uvpb_vWW5i4JnaSnMsBcxXn8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
