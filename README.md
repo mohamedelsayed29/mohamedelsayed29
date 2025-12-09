@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
 <h3 align="center">I am a Backend developer</h3>
 
-- 👯 I’m looking to collaborate on **Python projects.**
+- 👯 I’m looking to collaborate on **JavaScript projects.**
 
 - All of my projects are available at [https://github.com/mohamedelsayed29?tab=repositories](https://github.com/mohamedelsayed29?tab=repositories)
 
-- 💬 Ask me about **Python , Django , REST Framework**
+- 💬 Ask me about **JavaScript , Nodejs , Express , Nest , TypeScript **
 
 - 📫 How to reach me **mohammed.elsayed.ahmmed@gmail.com**
 
