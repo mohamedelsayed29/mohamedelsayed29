@@ -79,15 +79,15 @@ const mohamed = {
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedelsayed29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mohamedelsayed29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedelsayed29&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="100%"/>
+        <img src="https://streak-stats.demolab.com?user=mohamedelsayed29&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedelsayed29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="100%"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedelsayed29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
       </td>
     </tr>
   </table>
@@ -129,18 +129,27 @@ const mohamed = {
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedelsayed29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedelsayed29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" width="90%"/>
 </div>
 
 ---
 
-### 📈 Language Distribution
+### 📈 Language & Contribution Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsayed29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="45%"/>
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsayed29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-contributor-stats.vercel.app/api?username=mohamedelsayed29&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Contributor Stats" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
