@@ -132,24 +132,15 @@ const mohamed = {
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedelsayed29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedelsayed29&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="85%"/>
 </div>
 
 ---
 
-### 📈 Language & Contribution Stats
+### 📈 Most Used Languages
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsayed29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=400" alt="Top Languages" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-contributor-stats.vercel.app/api?username=mohamedelsayed29&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Contributor Stats" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsayed29&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="45%"/>
 </div>
 
 ---
