@@ -19,6 +19,7 @@
 ```typescript
 const mohamed = {
     role: "Backend Developer",
+    education: "🎓 Computer Science Student",
     location: "Egypt 🇪🇬",
     code: [
       "JavaScript", 
@@ -66,6 +67,12 @@ const mohamed = {
 - 👯 Open for **backend collaborations**
 - 💡 Discussing **system design**
 - ⚡ **Coffee + Code = Magic ☕💻**
+
+### 💼 Work Experience
+
+**Backend Developer Intern** @ [Cyparta](https://www.cyparta.com/)  
+📅 June 2025 - August 2025  
+🚀 Built Node.js systems with WebSockets & GraphQL
 
 </td>
 </tr>
