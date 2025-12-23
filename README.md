@@ -165,6 +165,11 @@ const mohamed = {
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://discord.com/users/mo_sayed8453">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -177,7 +182,7 @@ const mohamed = {
           <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" colspan="2">
         <img src="https://komarev.com/ghpvc/?username=mohamedelsayed29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
       </td>
     </tr>
