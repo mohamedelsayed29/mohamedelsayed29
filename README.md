@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Elsayed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Node.js%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Elsayed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=80&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+NestJS;Building+Scalable+APIs+%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=80&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%7C+Node.js+%7C+Python;Building+Scalable+%26+Secure+APIs+%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,39 +18,40 @@
 
 ```typescript
 const mohamed = {
-    role: "Backend Developer",
+    role: "Software Engineer",
     education: "🎓 Computer Science Student",
     location: "Egypt 🇪🇬",
     code: [
-      "JavaScript", 
-      "TypeScript", 
-      "Node.js"
+      "JavaScript",
+      "TypeScript",
+      "Python"
     ],
     technologies: {
         backend: [
-          "Express.js", 
-          "NestJS", 
-          "Fastify"
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "Django"
         ],
         databases: [
-          "MongoDB", 
-          "MySQL", 
-          "PostgreSQL", 
+          "MongoDB",
+          "MySQL",
+          "PostgreSQL",
           "Redis"
         ],
         tools: [
-          "Docker", 
-          "Git", 
-          "Postman", 
+          "Docker",
+          "Git",
+          "Postman",
           "JWT"
         ],
         architecture: [
-          "RESTful APIs", 
-          "Microservices", 
+          "RESTful APIs",
+          "Microservices",
           "MVC"
         ]
     },
-    currentFocus: "Scalable backends",
+    currentFocus: "Secure & scalable backends",
     funFact: "console.log() forever! 🐛"
 };
 ```
@@ -62,21 +63,49 @@ const mohamed = {
 
 ### 🎯 What I'm Up To
 
-- 🔭 Building **microservices architecture**
+- 🔭 Building **secure backend & cybersecurity platforms**
 - 🌱 Learning **GraphQL, AWS, K8s**
 - 👯 Open for **backend collaborations**
 - 💡 Discussing **system design**
 - ⚡ **Coffee + Code = Magic ☕💻**
 
-### 💼 Work Experience
-
-**Backend Developer Intern** @ [Cyparta](https://www.cyparta.com/)  
-📅 June 2025 - August 2025  
-🚀 Built Node.js systems with WebSockets & GraphQL
-
 </td>
 </tr>
 </table>
+
+---
+
+### 💼 Work Experience
+
+#### **Software Engineer** @ Qowa
+
+📅 **January 2026 – Present**
+🌍 **Remote · Saudi Arabia**
+
+🚀 Working on secure and scalable backend systems and contributing to the development of cybersecurity platforms.
+
+**Key Contributions:**
+
+- Building and maintaining RESTful APIs using **Python** and **Django**.
+- Developing scalable backend features and dashboard functionality.
+- Implementing authentication, email workflows, and role-based access control.
+- Working with **Docker**, **PostgreSQL**, and modern development practices.
+- Collaborating with cross-functional teams to deliver production-ready solutions.
+
+<br/>
+
+#### **Backend Developer Intern** @ [Cyparta](https://www.cyparta.com/)
+
+📅 **June 2025 – August 2025**
+
+🚀 Contributed to backend development and real-time applications.
+
+**Key Contributions:**
+
+- Built **Node.js** applications using **Express.js**.
+- Worked with **WebSockets** and **GraphQL**.
+- Developed APIs and backend services.
+- Improved code quality and debugging processes.
 
 ---
 
@@ -112,7 +141,7 @@ const mohamed = {
 
 **Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,python,django&theme=dark" />
 
 </td>
 <td align="center" width="33%">
@@ -201,7 +230,7 @@ const mohamed = {
 ### 📫 Get In Touch
 
 <div align="center">
-  
+
 ```javascript
 const contactInfo = {
     email: "mohammed.elsayed.ahmmed@gmail.com",
@@ -228,15 +257,15 @@ console.log("Ready to collaborate? Reach out! 🤝");
 ---
 
 <div align="center">
-  
+
   ### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-  
+
   <br/>
-  
+
   **Made with ❤️ by [Mohamed Elsayed](https://github.com/mohamedelsayed29)**
-  
+
   <br/>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
+
 </div>
