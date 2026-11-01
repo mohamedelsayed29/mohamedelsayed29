@@ -1,271 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Elsayed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+<img src="./assets/header.svg" width="100%" alt="Mohamed Elsayed, Full Stack Engineer: React.js, Node.js, NestJS, TypeScript" />
+
+<br />
+
+<a href="https://linkedin.com/in/mohamed-elsayed-sw-engineer"><img src="https://img.shields.io/badge/LinkedIn-0B1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn" /></a>
+<a href="mailto:mohamed.elsayed.a.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0B1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email" /></a>
+<a href="https://my-portfolio-pi-brown-31.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1117?style=for-the-badge&logo=vercel&logoColor=2DD4BF" alt="Portfolio" /></a>
+<a href="https://drive.google.com/file/d/1_VP4WWLoj-4yw-Um3kY0mMxkk9H6cYnX/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-0B1117?style=for-the-badge&logo=googledrive&logoColor=2DD4BF" alt="Résumé" /></a>
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=80&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%7C+Node.js+%7C+Python;Building+Scalable+%26+Secure+APIs+%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-  </a>
-</div>
+<br />
 
----
+I'm a **Full Stack Engineer** who builds the whole path of a feature: a fast, accessible **React** interface, and the secure, well-tested **Node.js / NestJS** API behind it. I care about clean architecture, measurable performance, and shipping things that hold up in production.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+Right now I work on **cybersecurity web applications at RYVOR**, build **CRM and e-commerce products at HammerLoad**, and teach backend development to university students.
 
-### 👨‍💻 About Me
+<br />
 
-```typescript
-const mohamed = {
-    role: "Software Engineer",
-    education: "🎓 Computer Science Student",
-    location: "Egypt 🇪🇬",
-    code: [
-      "JavaScript",
-      "TypeScript",
-      "Python"
-    ],
-    technologies: {
-        backend: [
-          "Node.js",
-          "Express.js",
-          "NestJS",
-          "Django"
-        ],
-        databases: [
-          "MongoDB",
-          "MySQL",
-          "PostgreSQL",
-          "Redis"
-        ],
-        tools: [
-          "Docker",
-          "Git",
-          "Postman",
-          "JWT"
-        ],
-        architecture: [
-          "RESTful APIs",
-          "Microservices",
-          "MVC"
-        ]
-    },
-    currentFocus: "Secure & scalable backends",
-    funFact: "console.log() forever! 🐛"
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding"/>
-
-### 🎯 What I'm Up To
-
-- 🔭 Building **secure backend & cybersecurity platforms**
-- 🌱 Learning **GraphQL, AWS, K8s**
-- 👯 Open for **backend collaborations**
-- 💡 Discussing **system design**
-- ⚡ **Coffee + Code = Magic ☕💻**
-
-</td>
-</tr>
-</table>
-
----
-
-### 💼 Work Experience
-
-#### **Software Engineer** @ Qowa
-
-📅 **January 2026 – Present**
-🌍 **Remote · Saudi Arabia**
-
-🚀 Working on secure and scalable backend systems and contributing to the development of cybersecurity platforms.
-
-**Key Contributions:**
-
-- Building and maintaining RESTful APIs using **Python** and **Django**.
-- Developing scalable backend features and dashboard functionality.
-- Implementing authentication, email workflows, and role-based access control.
-- Working with **Docker**, **PostgreSQL**, and modern development practices.
-- Collaborating with cross-functional teams to deliver production-ready solutions.
-
-<br/>
-
-#### **Backend Developer Intern** @ [Cyparta](https://www.cyparta.com/)
-
-📅 **June 2025 – August 2025**
-
-🚀 Contributed to backend development and real-time applications.
-
-**Key Contributions:**
-
-- Built **Node.js** applications using **Express.js**.
-- Worked with **WebSockets** and **GraphQL**.
-- Developed APIs and backend services.
-- Improved code quality and debugging processes.
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedelsayed29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=mohamedelsayed29&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedelsayed29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛠️ Technology Stack
-
-<div align="center">
+## Impact
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
+<h3>82% → 96%</h3>
+<sub>Stripe payment success rate after reworking the payment flow at Qowa</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>−40%</h3>
+<sub>Failed-checkout support tickets, from the same change</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<h3>15+</h3>
+<sub>Students taught Node.js and REST API design at IEEE MTI</sub>
+</td>
+</tr>
+</table>
 
-**Backend & Languages**
+<br />
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,python,django&theme=dark" />
+## Experience
+
+<table>
+<tr>
+<td width="24%" valign="top"><b>RYVOR</b><br /><sub>Software Engineer<br />Oct 2026 – Present<br />UAE · Remote</sub></td>
+<td valign="top">
+Node.js services and REST APIs for cybersecurity-focused applications. Cut React load times and unnecessary re-renders, tuned queries and API latency across the stack, and ship with the frontend and security teams in Agile sprints.
+</td>
+</tr>
+<tr>
+<td valign="top"><b>HammerLoad</b><br /><sub>Full Stack Engineer<br />Aug 2026 – Present<br />Cairo · Remote</sub></td>
+<td valign="top">
+End-to-end client products (CRM, e-commerce, business management) in React.js, TypeScript and Node.js: customer and order workflows, third-party integrations, and Docker deployments on AWS and DigitalOcean.
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Qowa</b><br /><sub>Junior Software Engineer<br />Feb 2026 – Oct 2026<br />Riyadh · Remote</sub></td>
+<td valign="top">
+Modular NestJS + TypeScript APIs (controllers, services, repositories), PostgreSQL + Prisma schemas, transactions and migrations, Redis caching on hot endpoints, and Dockerized environments. Raised payment success from 82% to 96%.
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Cyparta</b><br /><sub>Backend Developer Intern<br />Jun 2025 – Aug 2025<br />Cairo</sub></td>
+<td valign="top">
+Architected a modular Node.js / Express backend for an online store (product, cart, order and user domains) with Stripe multi-currency payments.
+</td>
+</tr>
+</table>
+
+<br />
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### BioReza
+<sub>E-commerce platform for skincare & beauty · 2026</sub>
+
+Production storefront built end to end: Next.js + Tailwind on the front, NestJS + PostgreSQL behind it. Catalog, reviews, cart and checkout with local payments (Cash on Delivery, Vodafone Cash, InstaPay), webhook verification and idempotent orders. Redis caching, Docker, DigitalOcean, S3 for media.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nestjs,postgres,prisma,redis,docker&perline=8" height="30" alt="Next.js, TypeScript, Tailwind, NestJS, PostgreSQL, Prisma, Redis, Docker" />
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**Databases**
+### [Social Media API](https://github.com/mohamedelsayed29/social-media-api)
+<sub>Real-time backend · 2026</sub>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" />
+JWT auth with refresh-token rotation and revocation, Google OAuth, posts, comments and friend requests, and real-time messaging over Socket.IO. Media on AWS S3 with multipart uploads and presigned URLs, validated with Zod.
 
-</td>
-<td align="center" width="33%">
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb,aws,docker&perline=8" height="30" alt="Node.js, Express, TypeScript, MongoDB, AWS, Docker" />
 
 </td>
 </tr>
 </table>
 
-</div>
+<br />
 
----
+## Toolbox
 
-### 🏆 GitHub Achievements
+<table>
+<tr>
+<td width="20%"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,angular,html,css&theme=dark" height="36" alt="React, Next.js, Redux, Tailwind, SCSS, Angular, HTML, CSS" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js&theme=dark" height="36" alt="Node.js, NestJS, Express, TypeScript, JavaScript" /></td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" height="36" alt="PostgreSQL, MongoDB, MySQL, Redis, Prisma" /></td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git&theme=dark" height="36" alt="AWS, Docker, GitHub Actions, Linux, Git" /></td>
+</tr>
+<tr>
+<td><b>Testing</b></td>
+<td><img src="https://skillicons.dev/icons?i=jest,cypress,postman&theme=dark" height="36" alt="Jest, Cypress, Postman" /></td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedelsayed29&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="85%"/>
-</div>
+<sub><b>Also:</b> JWT · RBAC · OAuth 2.0 · OWASP practices · Swagger / OpenAPI · Socket.IO · React Testing Library · Clean Architecture · SOLID · Agile / Scrum</sub>
 
----
+<br />
 
-### 📈 Most Used Languages
+## Teaching
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelsayed29&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="45%"/>
-</div>
+- **Backend Instructor**, IEEE MTI Student Branch · Feb 2026 – Present. Node.js and REST API design for 15+ students, mentored through hands-on projects.
+- **Frontend Instructor (Volunteer)**, GDG on Campus MTI · Jul 2025 – Dec 2025. HTML, CSS and JavaScript through React, with weekly code reviews on student projects.
 
----
+## Education
 
-### 💼 Connect With Me
+**B.Sc. Computer Science**, Modern University for Technology and Information (MTI), Cairo · 2022 – 2026
+<br /><sub>Full Stack Development Diploma, Route Academy · 2024 – 2025</sub>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://my-portfolio-pi-brown-31.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/mohamed-elsayed-79a493262">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mohamedelsayed29">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://discord.com/users/mo_sayed8453">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="mailto:mohammed.elsayed.ahmmed@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://drive.google.com/file/d/1_VP4WWLoj-4yw-Um3kY0mMxkk9H6cYnX/view?usp=drive_link">
-          <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-        </a>
-      </td>
-      <td align="center" colspan="2">
-        <img src="https://komarev.com/ghpvc/?username=mohamedelsayed29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📫 Get In Touch
+<br />
 
 <div align="center">
-
-```javascript
-const contactInfo = {
-    email: "mohammed.elsayed.ahmmed@gmail.com",
-    linkedin: "mohamed-elsayed-79a493262",
-    portfolio: "mohamedelsayed.dev",
-    github: "mohamedelsayed29",
-    availability: "Open for opportunities! 🚀"
-};
-
-// Let's build something amazing together! 💡
-console.log("Ready to collaborate? Reach out! 🤝");
-```
-
-</div>
-
----
-
-### 💭 Developer Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
-</div>
-
----
-
-<div align="center">
-
-  ### ⭐ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-  <br/>
-
-  **Made with ❤️ by [Mohamed Elsayed](https://github.com/mohamedelsayed29)**
-
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<sub>Open to full-time and remote roles · <a href="mailto:mohamed.elsayed.a.dev@gmail.com">mohamed.elsayed.a.dev@gmail.com</a></sub>
 </div>
