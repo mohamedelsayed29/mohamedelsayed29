@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="64" viewBox="0 0 252 64" shape-rendering="crispEdges" role="img"><title>Player 1</title><style>
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .tw    { animation: tw 2.6s steps(2) infinite; }
+  .tw2   { animation: tw 3.4s steps(2) infinite; animation-delay: -1.3s; }
+  .float { animation: float 1.2s steps(1) infinite; }
+  .fa    { animation: fa .5s steps(1) infinite; }
+  .fb    { animation: fb .5s steps(1) infinite; }
+  .walk  { animation: walk 16s steps(330) infinite; }
+  .spin  { animation: spin .9s steps(1) infinite; transform-box: fill-box; transform-origin: center; }
+  .shoot { animation: shoot 7s steps(24) infinite; opacity: 0; }
+  .xp    { animation: xp 4s steps(9) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes tw    { 50% { opacity: .15; } }
+  @keyframes float { 50% { transform: translateY(-4px); } }
+  @keyframes fa    { 50% { opacity: 0; } }
+  @keyframes fb    { 0% { opacity: 0; } 50% { opacity: 1; } }
+  @keyframes walk  { from { transform: translateX(-60px); } to { transform: translateX(1260px); } }
+  @keyframes spin  { 25% { transform: scaleX(.6); } 50% { transform: scaleX(.2); } 75% { transform: scaleX(.6); } }
+  @keyframes shoot { 0% { opacity: 1; transform: translate(0, 0); } 14% { opacity: 1; transform: translate(-336px, 168px); }
+                     14.1%, 100% { opacity: 0; transform: translate(-336px, 168px); } }
+  @keyframes xp    { from { transform: scaleX(.1); } to { transform: scaleX(1); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .shoot { opacity: 0; } }
+</style><rect x="4" y="0" width="244" height="64" fill="#fff1e8"/><rect x="0" y="4" width="252" height="56" fill="#fff1e8"/><rect x="4" y="4" width="244" height="56" fill="#0f0e1f"/><rect x="4" y="56" width="244" height="4" fill="#1d2b53"/><path class="blink" fill="#00e436" d="M20 16h4v4h-4zM20 20h8v4h-8zM20 24h12v4h-12zM20 28h16v4h-16zM20 32h12v4h-12zM20 36h8v4h-8zM20 40h4v4h-4z"/><path fill="#7e2553" d="M56 20h16v4h-16zM56 24h4v4h-4zM72 24h4v4h-4zM56 28h4v4h-4zM72 28h4v4h-4zM56 32h16v4h-16zM56 36h4v4h-4zM56 40h4v4h-4zM56 44h4v4h-4zM80 20h4v4h-4zM80 24h4v4h-4zM80 28h4v4h-4zM80 32h4v4h-4zM80 36h4v4h-4zM80 40h4v4h-4zM80 44h20v4h-20zM108 20h12v4h-12zM104 24h4v4h-4zM120 24h4v4h-4zM104 28h4v4h-4zM120 28h4v4h-4zM104 32h20v4h-20zM104 36h4v4h-4zM120 36h4v4h-4zM104 40h4v4h-4zM120 40h4v4h-4zM104 44h4v4h-4zM120 44h4v4h-4zM128 20h4v4h-4zM144 20h4v4h-4zM128 24h4v4h-4zM144 24h4v4h-4zM132 28h4v4h-4zM140 28h4v4h-4zM136 32h4v4h-4zM136 36h4v4h-4zM136 40h4v4h-4zM136 44h4v4h-4zM152 20h20v4h-20zM152 24h4v4h-4zM152 28h4v4h-4zM152 32h16v4h-16zM152 36h4v4h-4zM152 40h4v4h-4zM152 44h20v4h-20zM176 20h16v4h-16zM176 24h4v4h-4zM192 24h4v4h-4zM176 28h4v4h-4zM192 28h4v4h-4zM176 32h16v4h-16zM176 36h4v4h-4zM184 36h4v4h-4zM176 40h4v4h-4zM188 40h4v4h-4zM176 44h4v4h-4zM192 44h4v4h-4zM224 20h4v4h-4zM220 24h8v4h-8zM224 28h4v4h-4zM224 32h4v4h-4zM224 36h4v4h-4zM224 40h4v4h-4zM220 44h12v4h-12z"/><path fill="#fff1e8" d="M52 16h16v4h-16zM52 20h4v4h-4zM68 20h4v4h-4zM52 24h4v4h-4zM68 24h4v4h-4zM52 28h16v4h-16zM52 32h4v4h-4zM52 36h4v4h-4zM52 40h4v4h-4zM76 16h4v4h-4zM76 20h4v4h-4zM76 24h4v4h-4zM76 28h4v4h-4zM76 32h4v4h-4zM76 36h4v4h-4zM76 40h20v4h-20zM104 16h12v4h-12zM100 20h4v4h-4zM116 20h4v4h-4zM100 24h4v4h-4zM116 24h4v4h-4zM100 28h20v4h-20zM100 32h4v4h-4zM116 32h4v4h-4zM100 36h4v4h-4zM116 36h4v4h-4zM100 40h4v4h-4zM116 40h4v4h-4zM124 16h4v4h-4zM140 16h4v4h-4zM124 20h4v4h-4zM140 20h4v4h-4zM128 24h4v4h-4zM136 24h4v4h-4zM132 28h4v4h-4zM132 32h4v4h-4zM132 36h4v4h-4zM132 40h4v4h-4zM148 16h20v4h-20zM148 20h4v4h-4zM148 24h4v4h-4zM148 28h16v4h-16zM148 32h4v4h-4zM148 36h4v4h-4zM148 40h20v4h-20zM172 16h16v4h-16zM172 20h4v4h-4zM188 20h4v4h-4zM172 24h4v4h-4zM188 24h4v4h-4zM172 28h16v4h-16zM172 32h4v4h-4zM180 32h4v4h-4zM172 36h4v4h-4zM184 36h4v4h-4zM172 40h4v4h-4zM188 40h4v4h-4zM220 16h4v4h-4zM216 20h8v4h-8zM220 24h4v4h-4zM220 28h4v4h-4zM220 32h4v4h-4zM220 36h4v4h-4zM216 40h12v4h-12z"/></svg>
